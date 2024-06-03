@@ -1,3 +1,5 @@
+Menjadi Google Cloud Engineer, Project Proyek Money Tracker App
+
 Front-End github https://github.com/dicodingacademy/a133-gcp-labs/tree/money-tracker
 
 Back-End github https://github.com/dicodingacademy/a133-gcp-labs/tree/money-tracker-api
