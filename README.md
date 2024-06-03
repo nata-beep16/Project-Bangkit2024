@@ -10,6 +10,5 @@ Proyek Deploy Aplikasi Profile
 
 Output
 
-
-https://github.com/nata-beep16/Project-Bangkit2024/assets/118192080/8cb8dc07-69a9-4e3c-812e-e60e8093ca3b
+https://github.com/nata-beep16/Project-Bangkit2024/assets/118192080/fac25a25-716c-4c5c-ba34-b515a2e7547f
 
