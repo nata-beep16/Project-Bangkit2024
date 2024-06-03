@@ -6,3 +6,10 @@ Proyek Deploy Aplikasi Profile
 
 ![google-compute-service](https://github.com/nata-beep16/Project-Bangkit2024/assets/118192080/de264a7c-a655-4ccd-a41d-91df5c76e57e)
 ![google-storage-service](https://github.com/nata-beep16/Project-Bangkit2024/assets/118192080/82f5c5b3-c07f-42dd-b86c-10db27e9660c)
+
+
+Output
+
+
+https://github.com/nata-beep16/Project-Bangkit2024/assets/118192080/8cb8dc07-69a9-4e3c-812e-e60e8093ca3b
+
