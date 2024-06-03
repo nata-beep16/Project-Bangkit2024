@@ -1,0 +1,148 @@
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\Pro_kos.exe.config
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\Pro_kos.exe
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\Pro_kos.pdb
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\MySql.Data.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\MySql.Web.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\Google.Protobuf.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\ZstdNet.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\System.Buffers.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\MySql.Data.xml
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\bin\Debug\MySql.Web.xml
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.exe.config
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.menu_admin.resources
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Properties.Resources.resources
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.CopyComplete
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.exe
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.pdb
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Form2.resources
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Form3.resources
+C:\Users\Asus\source\repos\Pro_kos\Pro_kos\obj\Debug\Pro_kos.login.resources
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\Pro_kos.exe.config
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\Pro_kos.exe
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\Pro_kos.pdb
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\Google.Protobuf.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\ZstdNet.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\BouncyCastle.Crypto.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\Ubiety.Dns.Core.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\System.Memory.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\System.Buffers.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\K4os.Compression.LZ4.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\K4os.Hash.xxHash.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\System.Numerics.Vectors.dll
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\MySql.Data.xml
+D:\ANDRE\Pro_kos\Pro_kos\bin\Debug\MySql.Web.xml
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.AssemblyReference.cache
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.SuggestedBindingRedirects.cache
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.exe.config
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.menu_admin.resources
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Form2.resources
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Form3.resources
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.login.resources
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Properties.Resources.resources
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.GenerateResource.cache
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.CoreCompileInputs.cache
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.CopyComplete
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.exe
+D:\ANDRE\Pro_kos\Pro_kos\obj\Debug\Pro_kos.pdb
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\Pro_kos.exe.config
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\Pro_kos.exe
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\Pro_kos.pdb
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.Shared.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\Google.Protobuf.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\ZstdNet.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\Ubiety.Dns.Core.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\System.Memory.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\System.Buffers.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\System.Numerics.Vectors.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\stdole.dll
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\MySql.Data.xml
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\bin\Debug\MySql.Web.xml
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.AssemblyReference.cache
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.SuggestedBindingRedirects.cache
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.exe.config
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.menu_admin.resources
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Form2.resources
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Form3.resources
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.kos.resources
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.login.resources
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Properties.Resources.resources
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.GenerateResource.cache
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.CoreCompileInputs.cache
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.CopyComplete
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.exe
+D:\Andrew\Unklab\VS\Pro_kos\Pro_kos\obj\Debug\Pro_kos.pdb
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\Pro_kos.exe.config
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\Pro_kos.exe
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\Pro_kos.pdb
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\Google.Protobuf.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\ZstdNet.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\System.Memory.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\System.Buffers.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\stdole.dll
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\MySql.Data.xml
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\bin\Debug\MySql.Web.xml
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.AssemblyReference.cache
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.SuggestedBindingRedirects.cache
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.exe.config
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.menu_admin.resources
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Form2.resources
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Form3.resources
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.kos.resources
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.login.resources
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.Properties.Resources.resources
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.GenerateResource.cache
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.CoreCompileInputs.cache
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.csproj.CopyComplete
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.exe
+C:\Users\UNKLAB\Downloads\Pro_kos andrew\Pro_kos\Pro_kos\obj\Debug\Pro_kos.pdb
